@@ -101,3 +101,8 @@
 [17:11:59] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:38172|your_mouther] -> UpstreamBridge has disconnected
 [17:11:59] [Netty Worker IO Thread #3/INFO]: [your_mouther] disconnected with: Proxy lost connection to server.
 [17:11:59] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:38172|your_mouther] <-> DownstreamBridge <-> [lobby] has disconnected
+[17:15:34] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57260]: Connected via websocket
+[17:15:34] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57260]: Origin header is https://eaglercraft.com
+[17:15:34] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57260]: Logged in as 'your_mouther'
+[17:15:34] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:57260|your_mouther] -> UpstreamBridge has connected
+[17:15:34] [Netty Worker IO Thread #1/INFO]: [your_mouther|/[0:0:0:0:0:0:0:1%0]:57260] <-> ServerConnector [lobby] has connected
