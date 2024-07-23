@@ -6,12 +6,12 @@ baseSettings:
     # Minimum amount of health points a player can have.
     minimumHealth: 2.0
     # Maximum amount of health points a player can have.
-    maximumHealth: 500.0
+    maximumHealth: 500.000
     # Health points will be changed only if the player was killed by the other player.
     killByPlayerOnly: false
     # If players with same ip address should be prevented from gaining health points.
     # This option can prevent from farming health points via multi accounts on a single device.
-    ignoreSameIp: true
+    ignoreSameIp: false
     # Define what list of actions should happen if a player reaches specific amount of maximum health points.
     # 
     # If the action should be enabled.
@@ -111,7 +111,7 @@ baseSettings:
         # Cooldown time in seconds.
         cooldown: 30
     # Item that can be used by a player to give him a specified amount of health points.
-    heartItem:
+    heartItem:APPLE
         # If any heart item should be enabled on the server.
         enabled: true
         # Amount of health points that should be given to a player on item consume.
@@ -157,7 +157,7 @@ baseSettings:
             lore: 
             - '&aUse this item to give yourself health points.'
             # Should heart item glow (Enchantment effect)?
-            glowing: false
+            glowing: true
         # Specify when the heart item should be dropped.
         drop:
             # If the heart item should be dropped on a maximum health limit exceed.
