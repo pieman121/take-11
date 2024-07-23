@@ -2,13 +2,13 @@
 # 1 heart = 2 health points.
 baseSettings:
     # Amount of maximum health points that will be given to the new player that did not play before.
-    defaultHealth: 20.0
+    defaultHealth: 30.0
     # Minimum amount of health points a player can have.
     minimumHealth: 2.0
     # Maximum amount of health points a player can have.
     maximumHealth: 500.0
     # Health points will be changed only if the player was killed by the other player.
-    killByPlayerOnly: true
+    killByPlayerOnly: false
     # If players with same ip address should be prevented from gaining health points.
     # This option can prevent from farming health points via multi accounts on a single device.
     ignoreSameIp: true

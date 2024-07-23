@@ -263,3 +263,26 @@ Caused by: java.lang.ClassNotFoundException: org.enginehub.piston.exception.Comm
 [17:07:22] [Server thread/INFO]: [your_mouther: Set own game mode to Survival Mode]
 [17:07:33] [Server thread/INFO]: your_mouther lost connection: Disconnected
 [17:07:33] [Server thread/INFO]: your_mouther left the game.
+[17:08:17] [Thread-21/INFO]: UUID of player your_mouther is 23f8ddb3-e711-3f99-903c-3d2ab7986d21
+[17:08:17] [Server thread/INFO]: your_mouther[/[0:0:0:0:0:0:0:1]:35858] logged in with entity id 451 at ([world]-14.470042655359668, 72.0, 250.48161059407815)
+[17:08:20] [Server thread/INFO]: your_mouther issued server command: /gamemode 0
+[17:08:32] [Server thread/INFO]: your_mouther lost connection: Disconnected
+[17:08:32] [Server thread/INFO]: your_mouther left the game.
+[17:08:40] [Server thread/INFO]: Stopping the server
+[17:08:40] [Server thread/INFO]: Stopping server
+[17:08:40] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.2.0
+[17:08:40] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[17:08:40] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[17:08:40] [Server thread/INFO]: [GreatLifeSteal] Disabling GreatLifeSteal v1.7.1-SNAPSHOT
+[17:08:40] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[17:08:40] [Server thread/INFO]: [SimpleHomes] Disabling SimpleHomes v2.2
+[17:08:40] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v6.4
+[17:08:40] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
+
+[17:08:40] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] Simple Tpa has been disabled on version 6.4[m
+
+[17:08:40] [Server thread/INFO]: Saving players
+[17:08:40] [Server thread/INFO]: Saving worlds
+[17:08:40] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[17:08:40] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[17:08:40] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
