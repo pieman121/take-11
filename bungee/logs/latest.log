@@ -68,3 +68,20 @@
 [17:02:23] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.10 by lax1dude
 [17:02:23] [Netty Boss IO Thread #0/INFO]: Listening on /127.0.0.1:25577
 [17:02:23] [EaglerXBungee: Network Tick Tasks/INFO] [EaglercraftXBungee]: Loaded certificate: /workspaces/take-11/bungee/plugins/EaglercraftXBungee/eagcert/$dl.2c63d6a9be9d273db57d50cb026093cb97ea6e54.cert
+[17:04:00] [Netty Worker IO Thread #1/WARN] [EaglercraftXBungee]: Server icon is not a file: /workspaces/take-11/bungee/server-icon.png
+[17:04:02] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59164]: Connected via websocket
+[17:04:02] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59164]: Origin header is https://eaglercraft.com
+[17:04:03] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59164]: Logged in as 'your_mouther'
+[17:04:03] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:59164|your_mouther] -> UpstreamBridge has connected
+[17:04:03] [Netty Worker IO Thread #2/INFO]: [your_mouther|/[0:0:0:0:0:0:0:1%0]:59164] <-> ServerConnector [lobby] has connected
+[17:05:02] [Netty Worker IO Thread #2/INFO]: [your_mouther] disconnected with: Server closed
+[17:05:02] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:59164|your_mouther] -> UpstreamBridge has disconnected
+[17:05:02] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:59164|your_mouther] <-> DownstreamBridge <-> [lobby] has disconnected
+[17:06:04] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:55244]: Connected via websocket
+[17:06:04] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:55244]: Origin header is https://eaglercraft.com
+[17:06:04] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:55244]: Logged in as 'your_mouther'
+[17:06:04] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:55244|your_mouther] -> UpstreamBridge has connected
+[17:06:04] [Netty Worker IO Thread #3/INFO]: [your_mouther|/[0:0:0:0:0:0:0:1%0]:55244] <-> ServerConnector [lobby] has connected
+[17:07:33] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:55244|your_mouther] -> UpstreamBridge has disconnected
+[17:07:33] [Netty Worker IO Thread #3/INFO]: [your_mouther] disconnected with: Proxy lost connection to server.
+[17:07:33] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:55244|your_mouther] <-> DownstreamBridge <-> [lobby] has disconnected
